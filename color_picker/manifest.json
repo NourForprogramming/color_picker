@@ -1,0 +1,36 @@
+{
+    "manifest_version": 3,
+    "name": "Color-it",
+    "description": "just simple color picker BY MasterXR",
+    "version": "1.0",
+    "action":{
+      "default_icon": {             
+      "16": "img/16.png",   
+      "32": "img/32.png",   
+      "64": "img/64.png"    
+    },
+        "default_popup": "calc.html",
+         "default_title": "Color-picker"  
+      },
+    "icons": {
+        "16": "img/16.png",
+        "32": "img/32.png",
+        "64": "img/64.png",
+        "128": "img/128.png"
+    },
+      "author": "nouuurcom@gmail.com",
+      "options_page": "options.html",
+      "permissions": ["storage","tabs"]
+
+     
+    
+      
+     
+      
+
+    }
+
+ 
+   
+
+
